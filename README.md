@@ -19,15 +19,8 @@
 ![](https://streak-stats.demolab.com/?user=vrun-s&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vrun-s&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center"> Contribution Snake</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=vrun-s&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://raw.githubusercontent.com/vrun-s/vrun-s/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
