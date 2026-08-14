@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Varun%20S&fontSize=60&fontAlignY=40&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Varun%20S&fontSize=60&fontAlignY=40&desc=Python%20Developer%20%7C%20Backend%20Developer&descAlignY=60"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Building+Real-Time+Applications;Grinding+LeetCode+Daily" />
 </p>
